@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SickBoyy02
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Java, JavaSript, Python
+- 🌱 I’m currently learning Java, JavaSript, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Krisz#9937 (Discord)
 
