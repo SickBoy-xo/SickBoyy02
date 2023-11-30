@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SickBoyy02
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Java, JavaSript, C#
+- 👋 Hi, I’m
+- 👀 I’m interested in
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Krisz#9937 (Discord)
+- 📫 How to reach me 
 
 <!---
 SickBoyy02/SickBoyy02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
